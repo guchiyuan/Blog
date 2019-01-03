@@ -6,7 +6,8 @@ collection of my original blog
 3. [css-inspiration](https://github.com/chokcoco/CSS-Inspiration)
 4. [冴羽博客](https://github.com/mqyqingfeng/Blog)
 5. [senntyou博客](https://github.com/senntyou/blogs)
-5. [果汁凉茶丶博客](https://www.jianshu.com/u/e5fbf24c3034)
+6. [果汁凉茶丶博客](https://www.jianshu.com/u/e5fbf24c3034)
+7. [前端面试秘籍](https://github.com/WsmDyj/Interview/blob/master/%E5%89%8D%E7%AB%AF%E6%AD%A6%E6%9E%97%E7%A7%98%E7%B1%8D.txt)
 
 ### 每日阅读汇总
 [11月](https://github.com/guchiyuan/Blog/issues/1)
