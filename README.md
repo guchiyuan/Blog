@@ -9,6 +9,10 @@ collection of my original blog
 6. [果汁凉茶丶博客](https://www.jianshu.com/u/e5fbf24c3034)
 7. [前端面试秘籍](https://github.com/WsmDyj/Interview/blob/master/%E5%89%8D%E7%AB%AF%E6%AD%A6%E6%9E%97%E7%A7%98%E7%B1%8D.txt)
 8. [免费编程书籍资源](https://github.com/meibin08/free-programming-books)
+9. [千古壹号——web入门](https://github.com/qianguyihao/Web)
+10. [web前端进阶](https://github.com/InterviewMap/CS-Interview-Knowledge-Map)
+11. [cs技术](https://github.com/CyC2018/CS-Notes)
+12. [LeetCode算法](https://github.com/MisterBooo/LeetCodeAnimation)
 
 ### 每日阅读汇总
 [11月](https://github.com/guchiyuan/Blog/issues/1)
