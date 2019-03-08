@@ -13,6 +13,7 @@ collection of my original blog
 10. [web前端进阶](https://github.com/InterviewMap/CS-Interview-Knowledge-Map)
 11. [cs技术](https://github.com/CyC2018/CS-Notes)
 12. [LeetCode算法](https://github.com/MisterBooo/LeetCodeAnimation)
+13. [现代JavaScript教程](http://zh.javascript.info/)
 
 ### 每日阅读汇总
 [11月](https://github.com/guchiyuan/Blog/issues/1)
