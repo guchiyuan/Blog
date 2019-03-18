@@ -15,6 +15,10 @@ collection of my original blog
 12. [LeetCode算法](https://github.com/MisterBooo/LeetCodeAnimation)
 13. [现代JavaScript教程](http://zh.javascript.info/)
 
+#### CSS
+1. [chokcoco](https://www.cnblogs.com/coco1s/) [chokcoco GitHub](https://github.com/chokcoco)
+2. [张鑫旭](https://www.zhangxinxu.com/) [张鑫旭GitHub](https://github.com/zhangxinxu)
+
 ### 每日阅读汇总
 [11月](https://github.com/guchiyuan/Blog/issues/1)
 
